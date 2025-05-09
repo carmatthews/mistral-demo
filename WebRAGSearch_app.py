@@ -27,9 +27,8 @@ load_dotenv()
 
 mistral_api_key = os.getenv("MISTRAL_API_KEY")
 tavily_api_key = os.getenv("TAVILY_API_KEY")
-  
-PDF_FOLDER = "docs - Copy"  
-#PDF_FOLDER = "docs"
+
+PDF_FOLDER = "docs"
 
 # Mistral LLM  
 llm = ChatMistralAI(  
