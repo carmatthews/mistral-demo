@@ -1,0 +1,13 @@
+python-dotenv
+ipykernel
+mistralai
+pandas
+faiss-cpu
+langchain
+langchain-mistralai
+langchain-community
+streamlit 
+langgraph
+streamlit
+pypdf
+tavily-python
